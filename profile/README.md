@@ -1,4 +1,4 @@
-# Hackathon CodigoFacilito Kiro AWS-Equipo 37 - DEVMASTERS
+# Hackathon CodigoFacilito Kiro AWS-Equipo 35 - DEVMASTERS
 <div align="center">
 
 <img src="https://res.cloudinary.com/tecnologi-zifrikc/image/upload/v1784545467/Gemini_Generated_Image_72fm0n72fm0n72fm_kwwjvb.png" alt="DevMasters Shield Logo" width="300" />
@@ -11,7 +11,7 @@
 
 ## 📖 Presentación de la Organización
 
-**DevMasters** es un escuadrón tecnológico de élite formado en el **Hackathon AWS Kiro (Equipo 37)**. Somos especialistas en desarrollo Full-Stack, Ingeniería de Confiabilidad (SRE) y Arquitectura Cloud. Nuestro enfoque radica en la intersección entre la infraestructura como código y los modelos de lenguaje de gran tamaño (LLMs) para automatizar la resolución de problemas en la nube.
+**DevMasters** es un escuadrón tecnológico de élite formado en el **Hackathon AWS Kiro (Equipo 35)**. Somos especialistas en desarrollo Full-Stack, Ingeniería de Confiabilidad (SRE) y Arquitectura Cloud. Nuestro enfoque radica en la intersección entre la infraestructura como código y los modelos de lenguaje de gran tamaño (LLMs) para automatizar la resolución de problemas en la nube.
 
 ### 🚨 La Problemática
 
@@ -66,8 +66,10 @@ Escuadrón de **5 especialistas** enfocados en desarrollo, automatización e IA.
 **Nicole Jennifer Solis** - *Frontend Engineer UI UX*  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
 
-**Julio Vargas ** - *Aws Archittecture Engineering *  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+**Julio Vargas** - *Cloud Architecture Engineer*  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvargasch.1004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliovargasch/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulioVargas104)
 
 ---
 
@@ -78,9 +80,9 @@ Escuadrón de **5 especialistas** enfocados en desarrollo, automatización e IA.
 
 **CodigoFacilito & AWS** - Plataforma organizadora | **AWS** - Iniciativa principal | **CodigoFacilito** - Formación técnica
 
-### ⭐ **Monitoring Agent - Equipo 37: DevMasters**
+### ⭐ **Monitoring Agent - Equipo 35: DevMasters**
 
-**Hackathon AWS KIRO 2026** | [![AWS](https://codigofacilito.com/aws/hackathon)
+**Hackathon AWS KIRO 2026** | [![AWS](https://codigofacilito.com/aws/hackathon)]
 
 *Última actualización: Julio 2026*
 
